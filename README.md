@@ -1,5 +1,6 @@
 # house-prices-advanced-regression-techniques
-Data Analysis Step
+
+# Data Analysis Step
 
 Data Prepocessing :
 * Check the normality of sale price(QQ plot) and transform to the normal distribution by applying log transformation.
